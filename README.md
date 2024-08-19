@@ -1,3 +1,12 @@
+<h1>Friend Manager App</h1>
+This React application allows users to manage a list of friends, display their information, and track balances associated with each friend. Users can add new friends, update existing balances, and interact with the app through `dynamic forms` and `components`.
+
+<h2>Features</h2>
+**Friend List:** Display a list of friends with their names, images, and balances.
+**Add Friend:** Add new friends to the list using the FriendForm component.
+**Update Balance:** Update the balance associated with each friend using the SplitForm component.
+**Dynamic Forms:** Toggle forms for adding friends and updating balances.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
