@@ -2,10 +2,10 @@
 This React application allows users to manage a list of friends, display their information, and track balances associated with each friend. Users can add new friends, update existing balances, and interact with the app through `dynamic forms` and `components`.
 
 <h2>Features</h2>
-**Friend List:** Display a list of friends with their names, images, and balances.
-**Add Friend:** Add new friends to the list using the FriendForm component.
-**Update Balance:** Update the balance associated with each friend using the SplitForm component.
-**Dynamic Forms:** Toggle forms for adding friends and updating balances.
+<b>Friend List:</b> Display a list of friends with their names, images, and balances.
+<b>Add Friend:</b> Add new friends to the list using the FriendForm component.
+<b>Update Balance:</b> Update the balance associated with each friend using the SplitForm component.
+<b>Dynamic Forms:</b> Toggle forms for adding friends and updating balances.
 
 # Getting Started with Create React App
 
@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start` 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
