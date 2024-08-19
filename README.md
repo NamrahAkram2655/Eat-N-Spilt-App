@@ -3,7 +3,7 @@ This React application allows users to manage a list of friends, display their i
 
 <h2>Features</h2>
 <b>Friend List:</b> Display a list of friends with their names, images, and balances.
-<b>Add Friend:</b> Add new friends to the list using the FriendForm component.
+<b>Add Friend:</b> Add new friends to the list using the FriendForm component. 
 <b>Update Balance:</b> Update the balance associated with each friend using the SplitForm component.
 <b>Dynamic Forms:</b> Toggle forms for adding friends and updating balances.
 
