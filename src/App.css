@@ -1,0 +1,109 @@
+.eatsplit {
+  display: flex;
+  justify-content: space-between;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.img img {
+  height: 9vh;
+  width: 4vw;
+  border-radius: 2rem;
+}
+
+.img {
+  display: flex;
+  gap: 1rem;
+  margin: 1rem;
+}
+
+.list {
+  display: flex;
+}
+
+.button {
+  margin: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+  background-color: rgb(255, 197, 88);
+  border: none;
+  border-radius: 10px;
+}
+
+.button:hover {
+  background-color: orangered;
+}
+
+.add {
+  margin: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+  background-color: rgb(255, 197, 88);
+  border: none;
+  border-radius: 10px;
+}
+
+.add:hover {
+  background-color: orangered;
+}
+
+.formadd {
+  width: 20vw;
+  height: 20vh;
+  background-color: rgb(255, 166, 0);
+  border: 1px solid black;
+  margin: 1rem;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.formadd div {
+  margin: 5px 0;
+}
+
+.splitform {
+  border: 1px solid black;
+  padding: 2rem;
+  background-color: rgb(255, 197, 88);
+  border-radius: 1rem;
+  /* width: 50%; */
+  margin: 1rem;
+}
+
+.splitform label {
+  padding: 1rem;
+}
+
+.form div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form select {
+  cursor: pointer;
+  height: 5vh;
+}
+
+.splitform input {
+  margin: 1rem;
+}
+
+.split-btn {
+  cursor: pointer;
+  background-color: rgb(230, 121, 32);
+  padding: 8px 16px;
+  border: none;
+  border-radius: 10px;
+}
+
+.split-btn:hover {
+  background-color: orangered;
+  color: white;
+}
